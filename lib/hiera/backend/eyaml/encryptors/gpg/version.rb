@@ -3,7 +3,7 @@ class Hiera
     module Eyaml
       module Encryptors
         module Gpg
-          VERSION = "0.5"
+          VERSION = "0.6.1"
         end
       end
     end
